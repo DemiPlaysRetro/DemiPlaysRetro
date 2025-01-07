@@ -4,7 +4,7 @@ I like programming, electrical engineering, and trigonometry (The last one the m
 
 I have been programming since the 7th grade
 
-I don't post my code here, but I'm a programmer trust me:
+I don't post all my code here, but I'm a programmer trust me:
 
 Languages I know:
 - C++, C, C#
